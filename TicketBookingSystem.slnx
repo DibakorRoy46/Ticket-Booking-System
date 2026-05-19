@@ -3,9 +3,13 @@
   <Folder Name="/src/API/">
     <Project Path="src/API/TicketBookingSystem.Api/TicketBookingSystem.Api.csproj" Id="47b3c2eb-e67c-426e-8490-5c700f8d49fa" />
   </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="Infrastructure/SharedKernal.Infrastructure/SharedKernal.Infrastructure.csproj" Id="0b7551f2-7cf5-4d2e-913e-a72d52163d86" />
+  </Folder>
   <Folder Name="/src/Modules/" />
   <Folder Name="/src/Modules/Events/" />
   <Folder Name="/src/Shared/">
-    <Project Path="Shared/SharedKernel/SharedKernel.csproj" Id="5a2ec73d-a055-477e-8cc7-a6638150b945" />
+    <Project Path="Shared/Shared.Application/SharedKernal.Application.csproj" Id="efd182d1-857f-444c-ba53-ea01c1ede831" />
+    <Project Path="Shared/SharedKernal.Domain/SharedKernal.Domain.csproj" Id="7d5f7ce5-e41d-4798-b882-d8939dee011d" />
   </Folder>
 </Solution>
